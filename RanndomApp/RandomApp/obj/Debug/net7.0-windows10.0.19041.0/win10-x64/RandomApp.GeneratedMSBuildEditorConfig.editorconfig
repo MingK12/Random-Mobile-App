@@ -1,0 +1,35 @@
+is_global = true
+build_property.TargetFramework = net7.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RandomApp
+build_property.ProjectDir = C:\Users\gonca\Documents\Random-Mobile-App\RanndomApp\RandomApp\
+
+[C:/Users/gonca/Documents/Random-Mobile-App/RanndomApp/RandomApp/Page/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RandomApp.Page.App.xaml
+build_metadata.AdditionalFiles.TargetPath = Page\App.xaml
+build_metadata.AdditionalFiles.RelativePath = Page\App.xaml
+
+[C:/Users/gonca/Documents/Random-Mobile-App/RanndomApp/RandomApp/Page/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RandomApp.Page.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Page\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Page\MainPage.xaml
+
+[C:/Users/gonca/Documents/Random-Mobile-App/RanndomApp/RandomApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RandomApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/gonca/Documents/Random-Mobile-App/RanndomApp/RandomApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = RandomApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
