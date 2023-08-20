@@ -1,4 +1,6 @@
-﻿namespace RandomApp
+﻿using RandomApp.Page;
+
+namespace RandomApp
 {
     public partial class MainPage : ContentPage
     {
@@ -9,16 +11,14 @@
             InitializeComponent();
         }
 
-        private void OnCounterClicked(object sender, EventArgs e)
+        public void teste()
         {
-            count++;
+            
+        }
 
-            if (count == 1)
-                CounterBtn.Text = $"Clicked {count} time";
-            else
-                CounterBtn.Text = $"Clicked {count} times";
-
-            SemanticScreenReader.Announce(CounterBtn.Text);
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new NewPage1());
         }
     }
 }
